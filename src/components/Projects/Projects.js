@@ -59,7 +59,7 @@ function Projects() {
               isBlog={false}
               title="Todo App"
               description="A simple and intuitive ToDo web app to help users organize tasks, set priorities, and track daily progress efficiently."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
@@ -70,7 +70,7 @@ function Projects() {
               isBlog={false}
               title="CRM"
               description="A web-based CRM system designed to manage customer interactions, track sales leads, and streamline business communications."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
